@@ -6,8 +6,11 @@ I'm a software engineer who is passionate about web & cloud technologies. I help
 
 I am three times 🌟 Microsoft MVP (2016-2018), seasoned Trainer, consultant and author of “Microsoft Silverlight for Windows Phone” (the first Bangla eBook on Windows Phone).
 
-With over 7 years experience in developing enterprise solutions, currently I am working as Lead Engineer at Brain Station 23 Ltd.
+With over 7 years experience in developing enterprise solutions, currently I am working as Lead Engineer at Brain Station 23 Ltd. 
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahriarhossain&show_icons=true&theme=tokyonight" alt="shahriarhossain" />
+</p>
 
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://www.youtube.com/goforshahriar">Youtube</a> or <a href="https://www.learnwithshahriar.wordpress.com">LearnWithShahriar</a> 📹 ✍🏾
